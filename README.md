@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 # this code is under the  ulhas johari  
+# and copyright to ulhasjohari@gmail.com
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
