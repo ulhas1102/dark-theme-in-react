@@ -3,6 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <>
+    // this is our contact us page 
      <div className="container">
         <div className="row">
           <div className="col-md-12 mt-md-5">
